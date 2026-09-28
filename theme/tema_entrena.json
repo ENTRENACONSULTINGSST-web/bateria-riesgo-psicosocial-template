@@ -1,0 +1,42 @@
+{
+  "name": "Tema Entrena Consulting",
+  "dataColors": [
+    "#F26522",
+    "#0F4C81",
+    "#1F77B4",
+    "#2E7D32",
+    "#FDD835",
+    "#FB8C00",
+    "#C62828",
+    "#6B7280"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#F26522",
+  "textClasses": {
+    "title":   { "fontFace": "Arial", "fontSize": 20, "color": "#F26522" },
+    "header":  { "fontFace": "Arial", "fontSize": 14, "color": "#1F2937" },
+    "label":   { "fontFace": "Arial", "fontSize": 11, "color": "#374151" },
+    "callout": { "fontFace": "Arial", "fontSize": 32, "color": "#F26522" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#F26522" } },
+            "fontFamily": "Arial",
+            "fontSize": 14,
+            "bold": true
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
