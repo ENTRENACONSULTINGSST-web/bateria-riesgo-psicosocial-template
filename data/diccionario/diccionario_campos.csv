@@ -1,137 +1,158 @@
-Indice,Encabezado_Original,Instrumento,Forma,Nivel_Ocupacional,Nivel_Agregacion,Nombre,Tipo_Valor
-1,FECHA DE APLICACIÓN (dd/mm),Sociodemografico,,,Campo,FECHA DE APLICACIÓN (dd/mm),
-2,AÑO DE APLICACIÓN,Sociodemografico,,,Campo,AÑO DE APLICACIÓN,
-3,ID,Sociodemografico,,,Campo,ID,
-4,NOMBRE COMPLETO,Sociodemografico,,,Campo,NOMBRE COMPLETO,
-5,SEXO,Sociodemografico,,,Campo,SEXO,
-6,AÑO DE NACIMIENTO,Sociodemografico,,,Campo,AÑO DE NACIMIENTO,
-7,ESTADO CIVIL,Sociodemografico,,,Campo,ESTADO CIVIL,
-8,ESCOLARIDAD  (último nivel de estudios),Sociodemografico,,,Campo,ESCOLARIDAD  (último nivel de estudios),
-9,OCUPACIÓN O PROFESIÓN,Sociodemografico,,,Campo,OCUPACIÓN O PROFESIÓN,
-10,CIUDAD / MUNICIPIO DE RESIDENCIA,Sociodemografico,,,Campo,CIUDAD / MUNICIPIO DE RESIDENCIA,
-11,DEPARTAMENTO DEL PAÍS DONDE RESIDE,Sociodemografico,,,Campo,DEPARTAMENTO DEL PAÍS DONDE RESIDE,
-12,ESTRATO SERVICIOS PÚBLICOS,Sociodemografico,,,Campo,ESTRATO SERVICIOS PÚBLICOS,
-13,TIPO DE VIVIENDA,Sociodemografico,,,Campo,TIPO DE VIVIENDA,
-14,NÚMERO DE PERSONAS ECONÓMICAMENTE A CARGO,Sociodemografico,,,Campo,NÚMERO DE PERSONAS ECONÓMICAMENTE A CARGO,
-15,CIUDAD / MUNICIPIO DONDE TRABAJA,Sociodemografico,,,Campo,CIUDAD / MUNICIPIO DONDE TRABAJA,
-16,DEPARTAMENTO DEL PAÍS DONDE TRABAJA,Sociodemografico,,,Campo,DEPARTAMENTO DEL PAÍS DONDE TRABAJA,
-17,ANTIGÜEDAD EN LA EMPRESA,Sociodemografico,,,Campo,ANTIGÜEDAD EN LA EMPRESA,
-18,NOMBRE DEL CARGO,Sociodemografico,,,Campo,NOMBRE DEL CARGO,
-19,TIPO DE CARGO,Sociodemografico,,,Campo,TIPO DE CARGO,
-20,ANTIGÜEDAD EN EL CARGO,Sociodemografico,,,Campo,ANTIGÜEDAD EN EL CARGO,
-21,DEPARTAMENTO O SECCIÓN DE LA EMPRESA DONDE TRABAJA,Sociodemografico,,,Campo,DEPARTAMENTO O SECCIÓN DE LA EMPRESA DONDE TRABAJA,
-22,TIPO DE CONTRATO,Sociodemografico,,,Campo,TIPO DE CONTRATO,
-23,HORAS DIARIAS DE TRABAJO ESTABLECIDAS CONTRACTUALMENTE,Sociodemografico,,,Campo,HORAS DIARIAS DE TRABAJO ESTABLECIDAS CONTRACTUALMENTE,
-24,TIPO DE SALARIO,Sociodemografico,,,Campo,TIPO DE SALARIO,
-25,Dimensión: Características del liderazgo - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Características del liderazgo,Puntaje
-26,Dimensión: Características del liderazgo - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Características del liderazgo,Nivel_Riesgo
-27,Dimensión: Relaciones sociales en el trabajo - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Relaciones sociales en el trabajo,Puntaje
-28,Dimensión: Relaciones sociales en el trabajo - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Relaciones sociales en el trabajo,Nivel_Riesgo
-29,Dimensión: Retroalimentación del desempeño - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Retroalimentación del desempeño,Puntaje
-30,Dimensión: Retroalimentación del desempeño - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Retroalimentación del desempeño,Nivel_Riesgo
-31,Dimensión: Relación con los colaboradores  - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Relación con los colaboradores,Puntaje
-32,Dimensión: Relación con los colaboradores - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Relación con los colaboradores,Nivel_Riesgo
-33,DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma A (puntaje transformado),Intralaboral,A,,Dominio,Liderazgo y relaciones sociales en el trabajo,Puntaje
-34,DOMINIO: Liderazgo y relaciones sociales en el trabajo  - Forma A (nivel de riesgo),Intralaboral,A,,Dominio,Liderazgo y relaciones sociales en el trabajo,Nivel_Riesgo
-35,Dimensión: Claridad de rol - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Claridad de rol,Puntaje
-36,Dimensión: Claridad de rol  - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Claridad de rol,Nivel_Riesgo
-37,Dimensión: Capacitación - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Capacitación,Puntaje
-38,Dimensión: Capacitación  - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Capacitación,Nivel_Riesgo
-39,Dimensión: Participación y manejo del cambio - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Participación y manejo del cambio,Puntaje
-40,Dimensión: Participación y manejo del cambio - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Participación y manejo del cambio,Nivel_Riesgo
-41,Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Oportunidades para el uso y desarrollo de habilidades y conocimientos,Puntaje
-42,Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Oportunidades para el uso y desarrollo de habilidades y conocimientos,Nivel_Riesgo
-43,Dimensión: Control y autonomía sobre el trabajo - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Control y autonomía sobre el trabajo,Puntaje
-44,Dimensión: Control y autonomía sobre el trabajo - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Control y autonomía sobre el trabajo,Nivel_Riesgo
-45,DOMINIO Control sobre el trabajo - Forma A (puntaje transformado),Intralaboral,A,,Dominio,Control sobre el trabajo,Puntaje
-46,DOMINIO Control sobre el trabajo - Forma A (nivel de riesgo),Intralaboral,A,,Dominio,Control sobre el trabajo,Nivel_Riesgo
-47,Dimensión: Demandas ambientales y de esfuerzo físico - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Demandas ambientales y de esfuerzo físico,Puntaje
-48,Dimensión: Demandas ambientales y de esfuerzo físico - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Demandas ambientales y de esfuerzo físico,Nivel_Riesgo
-49,Dimensión: Demandas emocionales - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Demandas emocionales,Puntaje
-50,Dimensión: Demandas emocionales - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Demandas emocionales,Nivel_Riesgo
-51,Dimensión: Demandas cuantitativas - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Demandas cuantitativas,Puntaje
-52,Dimensión: Demandas cuantitativas - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Demandas cuantitativas,Nivel_Riesgo
-53,Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Influencia del trabajo sobre el entorno extralaboral,Puntaje
-54,Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Influencia del trabajo sobre el entorno extralaboral,Nivel_Riesgo
-55,Dimensión: Exigencias de responsabilidad del cargo - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Exigencias de responsabilidad del cargo,Puntaje
-56,Dimensión: Exigencias de responsabilidad del cargo - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Exigencias de responsabilidad del cargo,Nivel_Riesgo
-57,Dimensión: Demandas de carga mental - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Demandas de carga mental,Puntaje
-58,Dimensión: Demandas de carga mental - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Demandas de carga mental,Nivel_Riesgo
-59,Dimensión: Consistencia del rol - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Consistencia del rol,Puntaje
-60,Dimensión: Consistencia del rol - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Consistencia del rol,Nivel_Riesgo
-61,Dimensión: Demandas de la jornada de trabajo - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Demandas de la jornada de trabajo,Puntaje
-62,Dimensión: Demandas de la jornada de trabajo - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Demandas de la jornada de trabajo,Nivel_Riesgo
-63,DOMINIO: Demandas del trabajo - Forma A (puntaje transformado),Intralaboral,A,,Dominio,Demandas del trabajo,Puntaje
-64,DOMINIO: Demandas del trabajo - Forma A (nivel de riesgo),Intralaboral,A,,Dominio,Demandas del trabajo,Nivel_Riesgo
-65,Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza,Puntaje
-66,Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza,Nivel_Riesgo
-67,Dimensión: Reconocimiento y compensación - Forma A (puntaje transformado),Intralaboral,A,,Dimension,Reconocimiento y compensación,Puntaje
-68,Dimensión: Reconocimiento y compensación - Forma A (nivel de riesgo),Intralaboral,A,,Dimension,Reconocimiento y compensación,Nivel_Riesgo
-69,DOMINIO: Recompensas - Forma A (puntaje transformado),Intralaboral,A,,Dominio,Recompensas,Puntaje
-70,DOMINIO: Recompensas - Forma A (nivel de riesgo),Intralaboral,A,,Dominio,Recompensas,Nivel_Riesgo
-71,PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma A (puntaje transformado),Intralaboral,A,,Total,Total intralaboral,Puntaje
-72,PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma A (nivel de riesgo),Intralaboral,A,,Total,Total intralaboral,Nivel_Riesgo
-73,Dimensión: Características del liderazgo - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Características del liderazgo,Puntaje
-74,Dimensión: Características del liderazgo - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Características del liderazgo,Nivel_Riesgo
-75,Dimensión: Relaciones sociales en el trabajo - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Relaciones sociales en el trabajo,Puntaje
-76,Dimensión: Relaciones sociales en el trabajo - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Relaciones sociales en el trabajo,Nivel_Riesgo
-77,Dimensión: Retroalimentación del desempeño - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Retroalimentación del desempeño,Puntaje
-78,Dimensión: Retroalimentación del desempeño - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Retroalimentación del desempeño,Nivel_Riesgo
-79,DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma B (puntaje transformado),Intralaboral,B,,Dominio,Liderazgo y relaciones sociales en el trabajo,Puntaje
-80,DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma B (nivel de riesgo),Intralaboral,B,,Dominio,Liderazgo y relaciones sociales en el trabajo,Nivel_Riesgo
-81,Dimensión: Claridad de rol - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Claridad de rol,Puntaje
-82,Dimensión: Claridad de rol - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Claridad de rol,Nivel_Riesgo
-83,Dimensión: Capacitación - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Capacitación,Puntaje
-84,Dimensión: Capacitación - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Capacitación,Nivel_Riesgo
-85,Dimensión: Participación y manejo del cambio - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Participación y manejo del cambio,Puntaje
-86,Dimensión: Participación y manejo del cambio - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Participación y manejo del cambio,Nivel_Riesgo
-87,Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Oportunidades para el uso y desarrollo de habilidades y conocimientos,Puntaje
-88,Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Oportunidades para el uso y desarrollo de habilidades y conocimientos,Nivel_Riesgo
-89,Dimensión: Control y autonomía sobre el trabajo - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Control y autonomía sobre el trabajo,Puntaje
-90,Dimensión: Control y autonomía sobre el trabajo - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Control y autonomía sobre el trabajo,Nivel_Riesgo
-91,DOMINIO: Control sobre el trabajo - Forma B (puntaje transformado),Intralaboral,B,,Dominio,Control sobre el trabajo,Puntaje
-92,DOMINIO: Control sobre el trabajo - Forma B (nivel de riesgo),Intralaboral,B,,Dominio,Control sobre el trabajo,Nivel_Riesgo
-93,Dimensión: Demandas ambientales y de esfuerzo físico - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Demandas ambientales y de esfuerzo físico,Puntaje
-94,Dimensión: Demandas ambientales y de esfuerzo físico - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Demandas ambientales y de esfuerzo físico,Nivel_Riesgo
-95,Dimensión: Demandas emocionales - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Demandas emocionales,Puntaje
-96,Dimensión: Demandas emocionales - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Demandas emocionales,Nivel_Riesgo
-97,Dimensión: Demandas cuantitativas - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Demandas cuantitativas,Puntaje
-98,Dimensión: Demandas cuantitativas - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Demandas cuantitativas,Nivel_Riesgo
-99,Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Influencia del trabajo sobre el entorno extralaboral,Puntaje
-100,Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Influencia del trabajo sobre el entorno extralaboral,Nivel_Riesgo
-101,Dimensión: Demandas de carga mental - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Demandas de carga mental,Puntaje
-102,Dimensión: Demandas de carga mental - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Demandas de carga mental,Nivel_Riesgo
-103,Dimensión: Demandas de la jornada de trabajo - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Demandas de la jornada de trabajo,Puntaje
-104,Dimensión: Demandas de la jornada de trabajo - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Demandas de la jornada de trabajo,Nivel_Riesgo
-105,DOMINIO: Demandas del trabajo - Forma B (puntaje transformado),Intralaboral,B,,Dominio,Demandas del trabajo,Puntaje
-106,DOMINIO: Demandas del trabajo - Forma B (nivel de riesgo),Intralaboral,B,,Dominio,Demandas del trabajo,Nivel_Riesgo
-107,Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza,Puntaje
-108,Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza,Nivel_Riesgo
-109,Dimensión: Reconocimiento y compensación - Forma B (puntaje transformado),Intralaboral,B,,Dimension,Reconocimiento y compensación,Puntaje
-110,Dimensión: Reconocimiento y compensación - Forma B (nivel de riesgo),Intralaboral,B,,Dimension,Reconocimiento y compensación,Nivel_Riesgo
-111,DOMINIO: Recompensas - Forma B (puntaje transformado),Intralaboral,B,,Dominio,Recompensas,Puntaje
-112,DOMINIO: Recompensas - Forma B (nivel de riesgo),Intralaboral,B,,Dominio,Recompensas,Nivel_Riesgo
-113,PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma B (puntaje transformado),Intralaboral,B,,Total,Total intralaboral,Puntaje
-114,PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma B (nivel de riesgo),Intralaboral,B,,Total,Total intralaboral,Nivel_Riesgo
-115,Dimensión: Tiempo fuera del trabajo - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Tiempo fuera del trabajo,Puntaje
-116,Dimensión: Tiempo fuera del trabajo - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Tiempo fuera del trabajo,Nivel_Riesgo
-117,Dimensión: Relaciones familiares  - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Relaciones familiares,Puntaje
-118,Dimensión: Relaciones familiares  - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Relaciones familiares,Nivel_Riesgo
-119,Dimensión: Comunicación y relaciones interpersonales - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Comunicación y relaciones interpersonales,Puntaje
-120,Dimensión: Comunicación y relaciones interpersonales - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Comunicación y relaciones interpersonales,Nivel_Riesgo
-121,Dimensión: Situación económica del grupo familiar - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Situación económica del grupo familiar,Puntaje
-122,Dimensión: Situación económica del grupo familiar - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Situación económica del grupo familiar,Nivel_Riesgo
-123,Dimensión: Características de la vivienda y de su entorno - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Características de la vivienda y de su entorno,Puntaje
-124,Dimensión: Características de la vivienda y de su entorno - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Características de la vivienda y de su entorno,Nivel_Riesgo
-125,Dimensión: Influencia del entorno extralaboral sobre el trabajo - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Influencia del entorno extralaboral sobre el trabajo,Puntaje
-126,Dimensión: Influencia del entorno extralaboral sobre el trabajo - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Influencia del entorno extralaboral sobre el trabajo,Nivel_Riesgo
-127,Dimensión: Desplazamiento vivienda – trabajo – vivienda - Extralaboral (puntaje transformado),Extralaboral,,,Dimension,Desplazamiento vivienda – trabajo – vivienda,Puntaje
-128,Dimensión: Desplazamiento vivienda – trabajo – vivienda - Extralaboral (nivel de riesgo),Extralaboral,,,Dimension,Desplazamiento vivienda – trabajo – vivienda,Nivel_Riesgo
-129,PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial extralaboral (puntaje transformado),,,,Total,Total extralaboral,Puntaje
-130,PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial extralaboral (nivel de riesgo),,,,Total,Total extralaboral,Nivel_Riesgo
-131,Puntaje total evaluación general factores de riesgo psicosocial intralaboral (Forma A) y extralaboral (puntaje transformado),General,,,Total,Total general (Forma A + Extralaboral),Puntaje
-132,Puntaje total evaluación general factores de riesgo psicosocial intralaboral (Forma A) y extralaboral (nivel de riesgo),General,,,Total,Total general (Forma A + Extralaboral),Nivel_Riesgo
-133,Puntaje total evaluación general factores de riesgo psicosocial intralaboral (Forma B) y extralaboral (puntaje transformado),General,,,Total,Total general (Forma B + Extralaboral),Puntaje
-134,Puntaje total evaluación general factores de riesgo psicosocial intralaboral (Forma B) y extralaboral riesgo  (nivel de riesgo),General,,,Total,Total general (Forma B + Extralaboral),Nivel_Riesgo
-135,Puntaje total evaluación de estrés (puntaje transformado),Estres,,,Total,Total estrés,Puntaje
-136,Puntaje total evaluación de estrés (nivel de riesgo),Estres,,,Total,Total estrés,Nivel_Riesgo
+﻿"Indice","Encabezado_Original","Instrumento","Forma","Nivel_Ocupacional","Nivel_Agregacion","Nombre","Tipo_Valor"
+"1","FECHA DE APLICACIÓN (mm/dd/aaaa)","Sociodemografico","","","Campo","FECHA DE APLICACIÓN (mm/dd/aaaa)",""
+"2","TIPO EVALUACIÓN (Forma A - Forma B)","Sociodemografico","","","Campo","TIPO EVALUACIÓN (Forma A - Forma B)",""
+"3","ID","Sociodemografico","","","Campo","ID",""
+"4","NOMBRE COMPLETO","Sociodemografico","","","Campo","NOMBRE COMPLETO",""
+"5","SEXO","Sociodemografico","","","Campo","SEXO",""
+"6","EDAD","Sociodemografico","","","Campo","EDAD",""
+"7","ESTADO CIVIL","Sociodemografico","","","Campo","ESTADO CIVIL",""
+"8","ESCOLARIDAD 
+(último nivel de estudios)","Sociodemografico","","","Campo","ESCOLARIDAD 
+(último nivel de estudios)",""
+"9","OCUPACIÓN O PROFESIÓN","Sociodemografico","","","Campo","OCUPACIÓN O PROFESIÓN",""
+"10","CIUDAD / MUNICIPIO DE RESIDENCIA","Sociodemografico","","","Campo","CIUDAD / MUNICIPIO DE RESIDENCIA",""
+"11","DEPARTAMENTO DEL PAÍS DONDE RESIDE","Sociodemografico","","","Campo","DEPARTAMENTO DEL PAÍS DONDE RESIDE",""
+"12","ESTRATO SERVICIOS PÚBLICOS","Sociodemografico","","","Campo","ESTRATO SERVICIOS PÚBLICOS",""
+"13","TIPO DE VIVIENDA","Sociodemografico","","","Campo","TIPO DE VIVIENDA",""
+"14","NÚMERO DE PERSONAS ECONÓMICAMENTE A CARGO","Sociodemografico","","","Campo","NÚMERO DE PERSONAS ECONÓMICAMENTE A CARGO",""
+"15","CIUDAD / MUNICIPIO DONDE TRABAJA","Sociodemografico","","","Campo","CIUDAD / MUNICIPIO DONDE TRABAJA",""
+"16","DEPARTAMENTO DEL PAÍS DONDE TRABAJA","Sociodemografico","","","Campo","DEPARTAMENTO DEL PAÍS DONDE TRABAJA",""
+"17","ANTIGÜEDAD EN LA EMPRESA","Sociodemografico","","","Campo","ANTIGÜEDAD EN LA EMPRESA",""
+"18","NOMBRE DEL CARGO","Sociodemografico","","","Campo","NOMBRE DEL CARGO",""
+"19","TIPO DE CARGO","Sociodemografico","","","Campo","TIPO DE CARGO",""
+"20","ANTIGÜEDAD EN EL CARGO","Sociodemografico","","","Campo","ANTIGÜEDAD EN EL CARGO",""
+"21","DEPARTAMENTO O SECCIÓN DE LA EMPRESA DONDE TRABAJA","Sociodemografico","","","Campo","DEPARTAMENTO O SECCIÓN DE LA EMPRESA DONDE TRABAJA",""
+"22","TIPO DE CONTRATO","Sociodemografico","","","Campo","TIPO DE CONTRATO",""
+"23","HORAS DIARIAS DE TRABAJO ESTABLECIDAS CONTRACTUALMENTE","Sociodemografico","","","Campo","HORAS DIARIAS DE TRABAJO ESTABLECIDAS CONTRACTUALMENTE",""
+"24","TIPO DE SALARIO","Sociodemografico","","","Campo","TIPO DE SALARIO",""
+"25","Dimensión: Características del liderazgo - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Características del liderazgo","Puntaje"
+"26","Dimensión: Características del liderazgo - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Características del liderazgo","Nivel_Riesgo"
+"27","Dimensión: Relaciones sociales en el trabajo - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Relaciones sociales en el trabajo","Puntaje"
+"28","Dimensión: Relaciones sociales en el trabajo - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Relaciones sociales en el trabajo","Nivel_Riesgo"
+"29","Dimensión: Retroalimentación del desempeño - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Retroalimentación del desempeño","Puntaje"
+"30","Dimensión: Retroalimentación del desempeño - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Retroalimentación del desempeño","Nivel_Riesgo"
+"31","Dimensión: Relación con los colaboradores  - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Relación con los colaboradores","Puntaje"
+"32","Dimensión: Relación con los colaboradores - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Relación con los colaboradores","Nivel_Riesgo"
+"33","DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma A (puntaje transformado)","Intralaboral","A","","Dominio","Liderazgo y relaciones sociales en el trabajo","Puntaje"
+"34","DOMINIO: Liderazgo y relaciones sociales en el trabajo 
+- Forma A (nivel de riesgo)","Intralaboral","A","","Dominio","Liderazgo y relaciones sociales en el trabajo","Nivel_Riesgo"
+"35","Dimensión: Claridad de rol - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Claridad de rol","Puntaje"
+"36","Dimensión: Claridad de rol - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Claridad de rol","Nivel_Riesgo"
+"37","Dimensión: Capacitación - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Capacitación","Puntaje"
+"38","Dimensión: Capacitación - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Capacitación","Nivel_Riesgo"
+"39","Dimensión: Participación y manejo del cambio - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Participación y manejo del cambio","Puntaje"
+"40","Dimensión: Participación y manejo del cambio - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Participación y manejo del cambio","Nivel_Riesgo"
+"41","Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Oportunidades para el uso y desarrollo de habilidades y conocimientos","Puntaje"
+"42","Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Oportunidades para el uso y desarrollo de habilidades y conocimientos","Nivel_Riesgo"
+"43","Dimensión: Control y autonomía sobre el trabajo - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Control y autonomía sobre el trabajo","Puntaje"
+"44","Dimensión: Control y autonomía sobre el trabajo - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Control y autonomía sobre el trabajo","Nivel_Riesgo"
+"45","DOMINIO Control sobre el trabajo - Forma A (puntaje transformado)","Intralaboral","A","","Dominio","Control sobre el trabajo","Puntaje"
+"46","DOMINIO Control sobre el trabajo - Forma A (nivel de riesgo)","Intralaboral","A","","Dominio","Control sobre el trabajo","Nivel_Riesgo"
+"47","Dimensión: Demandas ambientales y de esfuerzo físico - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Demandas ambientales y de esfuerzo físico","Puntaje"
+"48","Dimensión: Demandas ambientales y de esfuerzo físico - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Demandas ambientales y de esfuerzo físico","Nivel_Riesgo"
+"49","Dimensión: Demandas emocionales - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Demandas emocionales","Puntaje"
+"50","Dimensión: Demandas emocionales - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Demandas emocionales","Nivel_Riesgo"
+"51","Dimensión: Demandas cuantitativas - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Demandas cuantitativas","Puntaje"
+"52","Dimensión: Demandas cuantitativas - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Demandas cuantitativas","Nivel_Riesgo"
+"53","Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Influencia del trabajo sobre el entorno extralaboral","Puntaje"
+"54","Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Influencia del trabajo sobre el entorno extralaboral","Nivel_Riesgo"
+"55","Dimensión: Exigencias de responsabilidad del cargo - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Exigencias de responsabilidad del cargo","Puntaje"
+"56","Dimensión: Exigencias de responsabilidad del cargo - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Exigencias de responsabilidad del cargo","Nivel_Riesgo"
+"57","Dimensión: Demandas de carga mental - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Demandas de carga mental","Puntaje"
+"58","Dimensión: Demandas de carga mental - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Demandas de carga mental","Nivel_Riesgo"
+"59","Dimensión: Consistencia del rol - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Consistencia del rol","Puntaje"
+"60","Dimensión: Consistencia del rol - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Consistencia del rol","Nivel_Riesgo"
+"61","Dimensión: Demandas de la jornada de trabajo - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Demandas de la jornada de trabajo","Puntaje"
+"62","Dimensión: Demandas de la jornada de trabajo - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Demandas de la jornada de trabajo","Nivel_Riesgo"
+"63","DOMINIO: Demandas del trabajo - Forma A (puntaje transformado)","Intralaboral","A","","Dominio","Demandas del trabajo","Puntaje"
+"64","DOMINIO: Demandas del trabajo - Forma A (nivel de riesgo)","Intralaboral","A","","Dominio","Demandas del trabajo","Nivel_Riesgo"
+"65","Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza","Puntaje"
+"66","Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza","Nivel_Riesgo"
+"67","Dimensión: Reconocimiento y compensación - Forma A (puntaje transformado)","Intralaboral","A","","Dimension","Reconocimiento y compensación","Puntaje"
+"68","Dimensión: Reconocimiento y compensación - Forma A (nivel de riesgo)","Intralaboral","A","","Dimension","Reconocimiento y compensación","Nivel_Riesgo"
+"69","DOMINIO: Recompensas - Forma A (puntaje transformado)","Intralaboral","A","","Dominio","Recompensas","Puntaje"
+"70","DOMINIO: Recompensas - Forma A (nivel de riesgo)","Intralaboral","A","","Dominio","Recompensas","Nivel_Riesgo"
+"71","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma A (puntaje transformado)","Intralaboral","A","","Total","Total intralaboral","Puntaje"
+"72","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma A (nivel de riesgo)","Intralaboral","A","","Total","Total intralaboral","Nivel_Riesgo"
+"73","Dimensión: Características del liderazgo - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Características del liderazgo","Puntaje"
+"74","Dimensión: Características del liderazgo - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Características del liderazgo","Nivel_Riesgo"
+"75","Dimensión: Relaciones sociales en el trabajo - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Relaciones sociales en el trabajo","Puntaje"
+"76","Dimensión: Relaciones sociales en el trabajo - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Relaciones sociales en el trabajo","Nivel_Riesgo"
+"77","Dimensión: Retroalimentación del desempeño - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Retroalimentación del desempeño","Puntaje"
+"78","Dimensión: Retroalimentación del desempeño - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Retroalimentación del desempeño","Nivel_Riesgo"
+"79","DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma B (puntaje transformado)","Intralaboral","B","","Dominio","Liderazgo y relaciones sociales en el trabajo","Puntaje"
+"80","DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma B (nivel de riesgo)","Intralaboral","B","","Dominio","Liderazgo y relaciones sociales en el trabajo","Nivel_Riesgo"
+"81","Dimensión: Claridad de rol - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Claridad de rol","Puntaje"
+"82","Dimensión: Claridad de rol - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Claridad de rol","Nivel_Riesgo"
+"83","Dimensión: Capacitación - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Capacitación","Puntaje"
+"84","Dimensión: Capacitación - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Capacitación","Nivel_Riesgo"
+"85","Dimensión: Participación y manejo del cambio - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Participación y manejo del cambio","Puntaje"
+"86","Dimensión: Participación y manejo del cambio - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Participación y manejo del cambio","Nivel_Riesgo"
+"87","Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Oportunidades para el uso y desarrollo de habilidades y conocimientos","Puntaje"
+"88","Dimensión: Oportunidades para el uso y desarrollo de habilidades y conocimientos - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Oportunidades para el uso y desarrollo de habilidades y conocimientos","Nivel_Riesgo"
+"89","Dimensión: Control y autonomía sobre el trabajo - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Control y autonomía sobre el trabajo","Puntaje"
+"90","Dimensión: Control y autonomía sobre el trabajo - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Control y autonomía sobre el trabajo","Nivel_Riesgo"
+"91","DOMINIO: Control sobre el trabajo - Forma B (puntaje transformado)","Intralaboral","B","","Dominio","Control sobre el trabajo","Puntaje"
+"92","DOMINIO: Control sobre el trabajo - Forma B (nivel de riesgo)","Intralaboral","B","","Dominio","Control sobre el trabajo","Nivel_Riesgo"
+"93","Dimensión: Demandas ambientales y de esfuerzo físico - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Demandas ambientales y de esfuerzo físico","Puntaje"
+"94","Dimensión: Demandas ambientales y de esfuerzo físico - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Demandas ambientales y de esfuerzo físico","Nivel_Riesgo"
+"95","Dimensión: Demandas emocionales - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Demandas emocionales","Puntaje"
+"96","Dimensión: Demandas emocionales - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Demandas emocionales","Nivel_Riesgo"
+"97","Dimensión: Demandas cuantitativas - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Demandas cuantitativas","Puntaje"
+"98","Dimensión: Demandas cuantitativas - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Demandas cuantitativas","Nivel_Riesgo"
+"99","Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Influencia del trabajo sobre el entorno extralaboral","Puntaje"
+"100","Dimensión: Influencia del trabajo sobre el entorno extralaboral - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Influencia del trabajo sobre el entorno extralaboral","Nivel_Riesgo"
+"101","Dimensión: Demandas de carga mental - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Demandas de carga mental","Puntaje"
+"102","Dimensión: Demandas de carga mental - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Demandas de carga mental","Nivel_Riesgo"
+"103","Dimensión: Demandas de la jornada de trabajo - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Demandas de la jornada de trabajo","Puntaje"
+"104","Dimensión: Demandas de la jornada de trabajo - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Demandas de la jornada de trabajo","Nivel_Riesgo"
+"105","DOMINIO: Demandas del trabajo - Forma B (puntaje transformado)","Intralaboral","B","","Dominio","Demandas del trabajo","Puntaje"
+"106","DOMINIO: Demandas del trabajo - Forma B (nivel de riesgo)","Intralaboral","B","","Dominio","Demandas del trabajo","Nivel_Riesgo"
+"107","Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza","Puntaje"
+"108","Dimensión: Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Recompensas derivadas de la pertenencia a la organización y del trabajo que se realiza","Nivel_Riesgo"
+"109","Dimensión: Reconocimiento y compensación - Forma B (puntaje transformado)","Intralaboral","B","","Dimension","Reconocimiento y compensación","Puntaje"
+"110","Dimensión: Reconocimiento y compensación - Forma B (nivel de riesgo)","Intralaboral","B","","Dimension","Reconocimiento y compensación","Nivel_Riesgo"
+"111","DOMINIO: Recompensas - Forma B (puntaje transformado)","Intralaboral","B","","Dominio","Recompensas","Puntaje"
+"112","DOMINIO: Recompensas - Forma B (nivel de riesgo)","Intralaboral","B","","Dominio","Recompensas","Nivel_Riesgo"
+"113","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma B (puntaje transformado)","Intralaboral","B","","Total","Total intralaboral","Puntaje"
+"114","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma B (nivel de riesgo)","Intralaboral","B","","Total","Total intralaboral","Nivel_Riesgo"
+"115","Dimensión: Tiempo fuera del trabajo - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Tiempo fuera del trabajo","Puntaje"
+"116","Dimensión: Tiempo fuera del trabajo - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Tiempo fuera del trabajo","Nivel_Riesgo"
+"117","Dimensión: Relaciones familiares  - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Relaciones familiares","Puntaje"
+"118","Dimensión: Relaciones familiares  - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Relaciones familiares","Nivel_Riesgo"
+"119","Dimensión: Comunicación y relaciones interpersonales - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Comunicación y relaciones interpersonales","Puntaje"
+"120","Dimensión: Comunicación y relaciones interpersonales - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Comunicación y relaciones interpersonales","Nivel_Riesgo"
+"121","Dimensión: Situación económica del grupo familiar - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Situación económica del grupo familiar","Puntaje"
+"122","Dimensión: Situación económica del grupo familiar - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Situación económica del grupo familiar","Nivel_Riesgo"
+"123","Dimensión: Características de la vivienda y de su entorno - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Características de la vivienda y de su entorno","Puntaje"
+"124","Dimensión: Características de la vivienda y de su entorno - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Características de la vivienda y de su entorno","Nivel_Riesgo"
+"125","Dimensión: Influencia del entorno extralaboral sobre el trabajo - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Influencia del entorno extralaboral sobre el trabajo","Puntaje"
+"126","Dimensión: Influencia del entorno extralaboral sobre el trabajo - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Influencia del entorno extralaboral sobre el trabajo","Nivel_Riesgo"
+"127","Dimensión: Desplazamiento vivienda – trabajo – vivienda - Extralaboral (puntaje transformado)","Extralaboral","","","Dimension","Desplazamiento vivienda – trabajo – vivienda","Puntaje"
+"128","Dimensión: Desplazamiento vivienda – trabajo – vivienda - Extralaboral (nivel de riesgo)","Extralaboral","","","Dimension","Desplazamiento vivienda – trabajo – vivienda","Nivel_Riesgo"
+"129","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial extralaboral (puntaje transformado)","Extralaboral","","","Total","Total extralaboral","Puntaje"
+"130","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial extralaboral (nivel de riesgo)","Extralaboral","","","Total","Total extralaboral","Nivel_Riesgo"
+"131","PUNTAJE TOTAL  de la Evaluación General de Factores de Riesgo Psicosocial Intra y Extralaboral (Puntaje Transformado)","General","","","Total","Total general","Puntaje"
+"132","PUNTAJE TOTAL  de la evaluación general de factores de riesgo psicosocial Intra y Extralaboral (Nivel de Riesgo)","General","","","Total","Total general","Nivel_Riesgo"
+"133","Puntaje total evaluación de estrés (puntaje transformado)","Estres","","","Total","Total estrés","Puntaje"
+"134","Puntaje total evaluación de estrés (nivel de riesgo)","Estres","","","Total","Total estrés","Nivel_Riesgo"
+"135","PROMEDIO Estilos de afrontamiento centrados en la emoción (Autoculpabilización)","Afrontamiento","","","Escala","Autoculpabilización","Promedio"
+"136","SIGNIFICACIÓN (Autoculpabilización)","Afrontamiento","","","Escala","Autoculpabilización","Significacion"
+"137","PROMEDIO Estilos de afrontamiento centrados en la emoción (Evitación)","Afrontamiento","","","Escala","Evitación","Promedio"
+"138","SIGNIFICACIÓN (Evitación)","Afrontamiento","","","Escala","Evitación","Significacion"
+"139","PROMEDIO Estilos de afrontamiento centrados en la emoción (Fantasía)","Afrontamiento","","","Escala","Fantasía","Promedio"
+"140","SIGNIFICACIÓN (Fantasía)","Afrontamiento","","","Escala","Fantasía","Significacion"
+"141","PROMEDIO Estilos de afrontamiento centrados en la acción (Búsqueda de Apoyo Social)","Afrontamiento","","","Escala","Búsqueda de Apoyo Social","Promedio"
+"142","SIGNIFICACIÓN (Búsqueda de Apoyo Social)","Afrontamiento","","","Escala","Búsqueda de Apoyo Social","Significacion"
+"143","PROMEDIO Estilos de afrontamiento centrados en la acción (Solución de Problemas)","Afrontamiento","","","Escala","Solución de Problemas","Promedio"
+"144","SIGNIFICACIÓN (Solución de Problemas)","Afrontamiento","","","Escala","Solución de Problemas","Significacion"
+"147","DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma A (puntaje Bruto)","Intralaboral","A","","Dominio","Liderazgo y relaciones sociales en el trabajo","Puntaje_Bruto"
+"148","DOMINIO Control sobre el trabajo - Forma A (puntaje Bruto)","Intralaboral","A","","Dominio","Control sobre el trabajo","Puntaje_Bruto"
+"149","DOMINIO: Demandas del trabajo - Forma A (puntaje Bruto)","Intralaboral","A","","Dominio","Demandas del trabajo","Puntaje_Bruto"
+"150","DOMINIO: Recompensas - Forma A (puntaje Bruto)","Intralaboral","A","","Dominio","Recompensas","Puntaje_Bruto"
+"151","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma A (puntaje Bruto)","Intralaboral","A","","Total","Total intralaboral","Puntaje_Bruto"
+"152","DOMINIO: Liderazgo y relaciones sociales en el trabajo - Forma B (puntaje Bruto)","Intralaboral","B","","Dominio","Liderazgo y relaciones sociales en el trabajo","Puntaje_Bruto"
+"153","DOMINIO: Control sobre el trabajo - Forma B (puntaje Bruto)","Intralaboral","B","","Dominio","Control sobre el trabajo","Puntaje_Bruto"
+"154","DOMINIO: Demandas del trabajo - Forma B (puntaje Bruto)","Intralaboral","B","","Dominio","Demandas del trabajo","Puntaje_Bruto"
+"155","DOMINIO: Recompensas - Forma B (puntaje Bruto)","Intralaboral","B","","Dominio","Recompensas","Puntaje_Bruto"
+"156","PUNTAJE TOTAL del cuestionario de factores de riesgo psicosocial intralaboral - Forma B (puntaje Bruto)","Intralaboral","B","","Total","Total intralaboral","Puntaje_Bruto"
