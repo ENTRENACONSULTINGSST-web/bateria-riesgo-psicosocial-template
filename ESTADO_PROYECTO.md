@@ -100,3 +100,25 @@ Tema: theme/tema_entrena.json
 1. Abrir este archivo y el .pbix
 2. Verificar _Medidas sin error
 3. Continuar por página 2 (Ficha Técnica) o 5 (Ficha sociodemográfica)
+
+---
+
+## 11. Secuencia para cargar un cliente nuevo (.xlsm)
+
+### Principio
+Cada cliente tiene su propio archivo Excel con macros (`.xlsm`), nombrado con el **nombre de la empresa**.
+No se usa un nombre genérico fijo tipo `MAIN.xlsm`.
+
+- Extensión correcta: **`.xlsm`**
+- Ejemplo: `Lexmana SAS.xlsm`, `Entrena Consulting SAS.xlsm`
+
+### Estructura de carpetas recomendada
+
+```text
+C:\Users\chmed\Documents\BateriaRiesgoPsicosocial\
+├── pbix\
+│   └── bateria-riesgo-psicosocial-template.pbix
+└── fuente\
+    ├── Lexmana SAS.xlsm
+    ├── Otra Empresa SA.xlsm
+    └── ...
