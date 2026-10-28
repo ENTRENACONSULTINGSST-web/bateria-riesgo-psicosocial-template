@@ -8,3 +8,17 @@ _data_BACKUP_*/
 Estructura verificada.txt
 *.pbix
 *.xlsm
+# PROHIBIDO SUBIR: Archivos de desarrollo y datos de clientes
+*.pbix
+*.pbit
+*.xlsm
+
+# PROHIBIDO SUBIR: Backups y temporales
+_data_BACKUP_*
+*.backup_*
+Estructura verificada.txt
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
