@@ -1,1 +1,10 @@
 ﻿*.pbix
+
+Diagnostico_SST_Psicosocial.xlsx
+pbit/
+
+_data_BACKUP_*/
+*.backup_*
+Estructura verificada.txt
+*.pbix
+*.xlsm
